@@ -12,11 +12,7 @@ for i in range(1, factorial+1):
     factorialAns=factorialAns*i
 print("The factorial of", factorial, "is", factorialAns)
 
-<<<<<<< HEAD
-#Exersice 1.3
-=======
 #Exercise 1.3
->>>>>>> ec053178dcc176fdd9950e16f09b035971657d05
 counter=0
 factor=int(input("Enter a number dat you want to get the factors: "))
 factorList=[]
