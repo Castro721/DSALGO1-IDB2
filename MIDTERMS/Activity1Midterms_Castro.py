@@ -70,3 +70,4 @@ X.push(4)
 print("Popped:", X.pop())
 print("Popped:", X.pop())
 X.get_items()
+
